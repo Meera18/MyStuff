@@ -1,4 +1,5 @@
-﻿namespace TestApplication
+﻿
+namespace TestApplication
 {
     class Program
     {
